@@ -260,6 +260,7 @@ header .intro-text .name {
   font-family: "Raleway", sans-serif;
   font-size: 2em;
   font-weight: 700;
+  background-color: #c09853;
 }
 header .intro-text .skills {
   font-size: 1.25em;
